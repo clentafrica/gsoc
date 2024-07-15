@@ -1,6 +1,4 @@
-# GSoC 2025 At CLENT Africa
-
-## Shortcuts
+# Google Summer of Code
 
 | [GSoC'25 Ideas](Ideas-2025.md) | [Proposal Template](Template.md) | [CLENT Africa @GitHub](https://github.com/clentafrica) |
 |:-------------------------------:|:-------------------------------:|:---------------------------:|
