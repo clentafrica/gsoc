@@ -14,7 +14,7 @@ CLENT Africa intends to be a Google Summer of Code 2025 mentoring organization. 
 Please get involved.
 - Read this document to learn how to apply as a contibutor for the GSoC program with CLENT Africa.
 - Please also check out our [ideas](Ideas-2025.md) list. We would love to hear your own ideas as well.
-- For any questions, please open an issue in our issue tracker or send a email to gsoc@clentafrica.org, our mailing list address. Please also consider subscribing to the mailing list at https://groups.google.com/a/clentafrica.org/forum/#!forum/gsoc.
+- For any questions, please open an issue in our issue tracker or send a email to gsoc@clentafrica.org
 - You may use our [proposal template](Template.md) or your own.
 
 In addition to the [Google Summer of Code requirements for a proposal](https://google.github.io/gsocguides/student/writing-a-proposal), proposals for CLENT Africa:
@@ -31,7 +31,7 @@ Read this document to learn what is required of you as GSoC mentor with CLENT Af
 
 ## How to talk to us?
 - We use the [GSoC Email](gsoc@clentafrica.org) for only direct and important communication. Allow some days for a reply. 
-- We also have a [Discord channel](https://discord.gg/HC75V7JN) where you can talk with other community members. Join to participate in the discussion and ask for help. See [Community etiquette](https://github.com/clentafrica/GSoC#community-etiquette).
+- We also have a [Discord channel](https://discord.gg/u5yWdGNmyR) where you can talk with other community members. Join to participate in the discussion and ask for help. See [Community etiquette](https://github.com/clentafrica/GSoC#community-etiquette).
 - Do not write secretly to mentors or developers unless they have asked you to. This varies by project idea. Check the list of coding mentors for each project.
 
 ## How to Contribute
